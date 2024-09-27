@@ -13,8 +13,9 @@ In their existing market, the sales team has classified all customers into 4 seg
 You are required to help the manager to predict the right group of the new customers.
 
 ## Neural Network Model
+![1](https://github.com/user-attachments/assets/a010e694-7771-45be-aacc-27d113f9ad2b)
 
-![image](https://github.com/kavyasenthamarai/nn-classification/assets/118668727/c054150d-5798-4206-810e-33b66cac7373)
+
 
 
 ## DESIGN STEPS
@@ -178,22 +179,27 @@ print(le.inverse_transform(x_single_prediction))
 ```
 ## Dataset Information
 
-![image](https://github.com/kavyasenthamarai/nn-classification/assets/118668727/02a7ca07-95a5-45b4-bae5-bdbd53f06b87)
+
+![2](https://github.com/user-attachments/assets/0a3db15a-a40d-4e45-995f-02aca2800008)
 
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-![image](https://github.com/kavyasenthamarai/nn-classification/assets/118668727/d74f5164-f418-44c6-a327-4ff62fbcf2b3)
+![3](https://github.com/user-attachments/assets/d2c6e68e-44ac-4dff-b915-e1e8d7f757dc)
+
 
 
 ### Classification Report
-![image](https://github.com/kavyasenthamarai/nn-classification/assets/118668727/a33dcd67-1604-4b65-a79f-7dd043889832)
+![4](https://github.com/user-attachments/assets/d2650bf6-4649-412d-b6fa-d5b6b2a35c6c)
+
 
 ### Confusion Matrix
-![image](https://github.com/kavyasenthamarai/nn-classification/assets/118668727/370e2e8f-e9b4-4243-807d-272844396c11)
+![5](https://github.com/user-attachments/assets/786b4f87-bea8-406b-8ce4-0439da953a53)
+
 
 ### New Sample Data Prediction
-![image](https://github.com/kavyasenthamarai/nn-classification/assets/118668727/1540d598-6d78-43bf-9526-91359f2a8ec7)
+![6](https://github.com/user-attachments/assets/c8eb8c3d-57c5-41e6-a903-47864bde5f60)
+
 
 
 ## RESULT
